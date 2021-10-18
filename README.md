@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhishekDataScientist
-- 👀 I’m interested in Data Science, Data Visualization, ML, AI and solving comples business problems.
+- 👀 I’m interested in Data Science, Data Visualization, ML, AI and solving complex business problems.
 - 📫 How to reach me avdatascience@gmail.com
 
 <!---
